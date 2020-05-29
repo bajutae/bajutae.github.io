@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Website of Jane Doe</title>
+    <title>Your title</title>
     <link>https://bajutae.github.io/</link>
-    <description>Recent content on Website of Jane Doe</description>
+    <description>Recent content on Your title</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     
 	<atom:link href="https://bajutae.github.io/index.xml" rel="self" type="application/rss+xml" />
     
